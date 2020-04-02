@@ -47,22 +47,3 @@ import pickle
 model = open("model.pickle","wb")
 pickle.dump(mlp, model)
 model.close()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
